@@ -61,7 +61,9 @@ img{
     background-color: #081b31;
     color: #fff;
     font-size: 2rem;
-    display: inline;
+    display: inline-block;
+    max-width: 90%;
+    word-wrap: break-word;
     padding: 1rem;
     border-radius: 1rem;
 
